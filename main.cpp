@@ -1,11 +1,11 @@
 #include <QApplication>
-#include <QPushButton>
-#include <iostream>
+
+
 #include <QPixmap>
-#include <QTimer>
+
 //#include "main.moc"
 #include <QSlider>
-#include <QSpinBox>
+
 #include <QPainter>
 #include <QPaintEvent>
 #include <QVBoxLayout>
